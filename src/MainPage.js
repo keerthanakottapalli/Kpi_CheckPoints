@@ -6,8 +6,8 @@ export default function MainPage() {
 
 
   const kpiApplication = () => {
-    window.location.href = 'http://emp-kpims.io.s3-website-us-west-2.amazonaws.com';
-    // window.location.href = 'http://172.17.15.253:3000';
+    // window.location.href = 'http://emp-kpims.io.s3-website-us-west-2.amazonaws.com';
+    window.location.href = 'http://172.17.15.253:3000';
   }
 
   const checkPointAppication = () => {
